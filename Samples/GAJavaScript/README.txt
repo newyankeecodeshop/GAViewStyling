@@ -1,0 +1,1 @@
+This is where the GAJavaScript files need to go. You can get them from https://github.com/newyankeecodeshop/GAJavaScript. You can clone the repository as this directory, or simply copy the GAJavaScript/Classes and GAJavaScript/ga-js-runtime.js files into this folder.

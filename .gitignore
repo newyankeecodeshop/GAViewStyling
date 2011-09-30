@@ -1,0 +1,12 @@
+.DS_Store
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+*.xcuserdatad
+*.xcworkspacedata
+ThirdParty/GHUnit*
+Samples/GAJavaScript/Classes
+Samples/GAJavaScript/ga-js-runtime.js
