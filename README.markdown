@@ -1,6 +1,6 @@
-# GAViewStyling
+# Overview
 
-One of the neat parts about making it easier to access JavaScript is that it becomes easier to access other parts of WebKit. One of those parts is the CSS engine. Inside GAJavaScript is a subsystem, called GAViewStyling, that provides  means to drive UIView cosmetic properties via CSS declarations in an HTML document.
+One of the neat parts about having a library, GAJavaScript, that makes it easier to access JavaScript is that using WebKit functionality becomes easier. One of those WebKit features is the CSS engine. GAViewStyling classes provide a means to drive UIView cosmetic properties via CSS declarations in an HTML document.
 
 ## How it works
 
